@@ -1,0 +1,24 @@
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
+*.iml
+out/
+
+# Build artifacts
+target/
+build/
+.gradle/
+
+# TMC internals
+.tmc.json
+.tmc_test_results.hidden
+.available_points.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
