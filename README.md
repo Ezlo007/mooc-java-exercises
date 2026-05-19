@@ -7,7 +7,7 @@ University of Helsinki'nin Java Programming I & II kursunun egzersiz çözümler
 ### Java Programming I
 - [X] Part 01: Starting Programming
 - [X] Part 02: Conditional Statements and Loops
-- [ ] Part 03: Java Programming Basics
+- [X] Part 03: Java Programming Basics
 - [ ] Part 04: Lists, Strings, Files
 - [ ] Part 05: Introduction to Object-Oriented Programming
 - [ ] Part 06: Inheritance, Interfaces, Polymorphism
